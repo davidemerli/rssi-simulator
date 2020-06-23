@@ -1,0 +1,11 @@
+problema.md
+problema.pdf
+meridiana.py
+main_.py
+data_analyzer.py
+venv/*
+stats/*
+log_antenne/*
+.vscode/*
+.idea/*
+__pycache__/*

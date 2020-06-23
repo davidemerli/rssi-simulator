@@ -1,0 +1,15 @@
+{
+    "TRASMITTED_POWER": -4,
+    "COUPLING_FACTOR": 1,
+    "WAVE_FACTOR": 40,
+    "PATH_LOSS_PERIM": -14,
+    "PATH_LOSS_INTERNAL": -3,
+    "NOISE": [
+        -30,
+        0
+    ],
+    "THRESHOLD": -95,
+    "PACKET_LOSS": 0.1,
+    "DELAY": 0.3,
+    "SIM_WINDOW": 5
+}
