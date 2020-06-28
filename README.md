@@ -8,10 +8,16 @@ Developed under Python 3.8: [Download](https://www.python.org/downloads/)
 
 **Python must be on system PATH for the script to work automatically**
 
+From the installer:
+![python-win](python-install-windows.png)
+
+After installation:
+
 Double click on ```start.bat```
 
 This will launch pip to install all required libraries (requirements.txt).
-Once finished it will start the program 
+
+Once all dependencies are downloaded it will start the program on its own.
 
 ### Linux / OSX
 
