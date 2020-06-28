@@ -9,6 +9,7 @@ Developed under Python 3.8: [Download](https://www.python.org/downloads/)
 **Python must be on system PATH for the script to work automatically**
 
 From the installer:
+
 ![python-win](python-install-windows.png)
 
 After installation:
